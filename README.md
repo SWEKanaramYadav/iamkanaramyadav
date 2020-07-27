@@ -74,7 +74,7 @@ Hi, I'm Kana Ram Yadav, A Student and Lerner 🚀 from Jaipur, India, currently 
 - 👯 I’m looking to collaborate on making any tech community
 - ⚡️ Fun-Fact  aI started writing blogs, [DEV blog](https://dev.to/imkanaram) in 2020 Also made a tech insta account [india_programmer](https://www.instagram.com/india_programmer/)
 - 📫 How to reach me:kanaramyadavofficial@gmail.com
-- 📝[Resume](https://www.linkedin.com/in/imkanaram/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACwStgIB-o9hfF7evO6535o5_rwjkOY1904,1592374205925)/)
+- 📝[Resume](https://www.linkedin.com/in/imkanaram/)
 
 
 
@@ -90,10 +90,13 @@ Hi, I'm Kana Ram Yadav, A Student and Lerner 🚀 from Jaipur, India, currently 
 
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>-->
 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="50" src=" https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="50" src=" https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/python.png"></code> 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/django.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code><br/>
+
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
+
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <!--<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> -->
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>-->
 
