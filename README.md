@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 **Hi, I'm Kana Ram Yadav, A Student and Lerner 🚀 from Jaipur, India, currently 💻 doing my Postgraduate MCA (5th Sem.) from Jecrc University and I am passionate about technology and want to learn & explore new technologies, I love coding,cooking and playing game.**
+---
 <br>
 ## My Skills :computer:
 
