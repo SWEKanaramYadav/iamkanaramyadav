@@ -58,5 +58,5 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-![Kana Ram's github stats](<img align="left" alt="imkanaram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imkanaram&show_icons=true&hide_border=true&theme=radical" />)
+<img align="left" alt="RohanDas28's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imkanaram&show_icons=true&hide_border=true&theme=radical" />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imkanaram&theme=tokyonight)
