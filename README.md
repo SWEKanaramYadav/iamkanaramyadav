@@ -61,5 +61,3 @@ Here are some ideas to get you started:
 <img align="left" alt="Kana Ram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imkanaram&show_icons=true&hide_border=true&theme=radical" />
 <img align="left" alt="Kana Ram's Useing programming" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkanaram&theme=tokyonight" />
 
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=imkanaram&theme=tokyonight
