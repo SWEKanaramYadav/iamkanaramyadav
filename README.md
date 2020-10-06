@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 **Hi, I'm Kana Ram Yadav, A Student and Lerner 🚀 from Jaipur, India, currently 💻 doing my Postgraduate MCA (5th Sem.) from Jecrc University and I am passionate about technology and want to learn & explore new technologies, I love coding,cooking and playing game.**
 ---
 <br>
-**My Skill**
+## MySkill 💻
+
  **Languages**
  
  <img alt="Python" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg"/>|<img alt="HTML" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg"/>|<img alt="CSS" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg"/>|<img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"/>|<img alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bootstrap.svg"/>|<img alt="Bulma" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/django.svg"/>
