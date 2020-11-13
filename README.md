@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hi there, I am <a href="https://imkanaram.github.io" target="_blank">Kana Ram </a> 🙋🏽‍♂️</h1> 
+<h1>Hi there, I am <a href="https://iamkanaramyadav.github.io" target="_blank">Kana Ram </a> 🙋🏽‍♂️</h1> 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=imkanaram) 
 
@@ -49,17 +49,17 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Science and ML
 - 💬 Ask me about anything, I am happy to help
 - 👯 I’m looking to collaborate on making any tech community
-- ⚡️ Fun-Fact  aI started writing blogs, [DEV blog](https://dev.to/imkanaram) in 2020 Also made a tech insta account [india_programmer](https://www.instagram.com/india_programmer/)
+- ⚡️ Fun-Fact  aI started writing blogs, [DEV blog](https://dev.to/iamkanaramyadav) in 2020 Also made a tech insta account [india_programmer](https://www.instagram.com/india_programmer/)
 - 📫 How to reach me:kanaramyadavofficial@gmail.com
-- 📝[Resume](https://www.linkedin.com/in/imkanaram/)
+- 📝[Resume](https://www.linkedin.com/in/iamkanaramyadav/)
 
 
 ## **Connect with Me**
-[<img align="left" alt="Kana Ram" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://imkanaram.github.io)[<img align="left" alt="Kana Ram" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons//facebook.svg" />](https://facebook.com/iamkanaramyadav)  [<img align="left" alt="Twitter - Kana Ram" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/twitter.svg" />](https://twitter.com/imkanaram) [<img align="left" alt="Instagram - Kana Ram" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/instagram.svg" />](https://www.instagram.com/imkanaram) [<img align="left" alt="LinkedIn - Kana Ram" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/linkedin.svg" />](https://www.linkedin.com/in/imkanaram) [<img align="left" alt="YouTube -Kana Ram" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/youtube.svg" />](https://www.youtube.com/c/vrktechnical) [<img align="left" alt="Email -Rohan Das" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />](mailto:kanaramyadavofficial@gmail.com)
+[<img align="left" alt="Kana Ram" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://iamkanaramyadav.github.io)[<img align="left" alt="Kana Ram" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons//facebook.svg" />](https://facebook.com/iamkanaramyadav)  [<img align="left" alt="Twitter - Kana Ram" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/twitter.svg" />](https://twitter.com/iamkanaramyadav) [<img align="left" alt="Instagram - Kana Ram" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/instagram.svg" />](https://www.instagram.com/iamkanaramyadav) [<img align="left" alt="LinkedIn - Kana Ram" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/linkedin.svg" />](https://www.linkedin.com/in/iamkanaramyadav) [<img align="left" alt="YouTube -Kana Ram" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/youtube.svg" />](https://www.youtube.com/c/vrktechnical) [<img align="left" alt="Email -Kana Ram" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />](mailto:kanaramyadavofficial@gmail.com)
 
 <br/>
 <br/>
 
-<img align="left" alt="Kana Ram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imkanaram&show_icons=true&hide_border=true&theme=radical" />
-<img align="left" alt="Kana Ram's Useing programming" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkanaram&theme=tokyonight" />
+<img align="left" alt="Kana Ram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamkanaramyadav&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="Kana Ram's Useing programming" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkanaramyadav&theme=tokyonight" />
 
