@@ -38,7 +38,7 @@ Here are some ideas to get you started:
  
  **Designing and Photo Editing**
  
-<img alt="Adobe Photoshop" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobephotoshop.svg"/>|<img alt="Adobe Lightroom" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobelightroomcc.svg"/>|<img alt="Gimp" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gimp.svg"/>
+<img alt="Adobe Photoshop" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobephotoshop.svg"/>|<img alt="Canva" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/canva.svg"/>|<img alt="Gimp" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gimp.svg"/>
  |--|--|--|
 
 
