@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 **Talking about Personal Stuffs:**
 
 - 💼 I’m currently partcipating in as much Hackathons as I can 
-- 🌱 I’m currently learning Data Science and ML
+- 🌱 I’m currently looking for a Job in React And Python Developer
 - 💬 Ask me about anything, I am happy to help
 - 👯 I’m looking to collaborate on making any tech community
 - ⚡️ Fun-Fact  aI started writing blogs, [DEV blog](https://dev.to/iamkanaramyadav) in 2020 Also made a tech insta account [india_programmer](https://www.instagram.com/india_programmer/)
