@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-**Hi, I'm Kana Ram Yadav, A Student and Lerner 🚀 from Jaipur, India, currently 💻 doing my Postgraduate MCA (5th Sem.) from Jecrc University and I am passionate about technology and want to learn & explore new technologies, I love coding,cooking and playing game.**
+**Hi, I'm Kana Ram Yadav, A Software Developer and Lerner 🚀 from Jaipur, India, currently 💻 working as a Software Developer and I am passionate about technology and want to learn & explore new technologies, I love coding,cooking and playing game.**
 ---
 <br>
 
@@ -36,20 +36,16 @@ Here are some ideas to get you started:
  <img alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ubuntu.svg"/>|<img alt="Fedora" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg"/>|<img alt="Git" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg"/>|<img alt="VSCode" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg"/>|<img alt="Atom" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/atom.svg"/>
  |--|--|--|--|--|
  
- **Designing and Photo Editing**
- 
-<img alt="Adobe Photoshop" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobephotoshop.svg"/>|<img alt="Canva" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/canva.svg"/>|<img alt="Gimp" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gimp.svg"/>
- |--|--|--|
 
 
 
 **Talking about Personal Stuffs:**
 
 - 💼 I’m currently partcipating in as much Hackathons as I can 
-- 🌱 I’m currently looking for a Job in React And Python Developer
+- 🌱 I’m currently Working as a Software Developer
 - 💬 Ask me about anything, I am happy to help
 - 👯 I’m looking to collaborate on making any tech community
-- ⚡️ Fun-Fact  aI started writing blogs, [DEV blog](https://dev.to/iamkanaramyadav) in 2020 Also made a tech insta account [india_programmer](https://www.instagram.com/india_programmer/)
+- ⚡️ Fun-Fact  aI started writing blogs, [DEV blog](https://dev.to/iamkanaramyadav) in 2020 Also made a tech insta account [india_programmer](https://www.instagram.com/how2developer/)
 - 📫 How to reach me:kanaramyadavofficial@gmail.com
 - 📝[Resume](https://www.linkedin.com/in/iamkanaramyadav/)
 
