@@ -20,32 +20,19 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-**Hi, I'm Kana Ram Yadav, A Software Developer and Lerner 🚀 from Jaipur, India, currently 💻 working as a Software Developer and I am passionate about technology and want to learn & explore new technologies, I love coding,cooking and playing game.**
+**Hi, I'm Kana Ram Yadav, A Software Engineer and Lerner 🚀 from Jaipur, India, currently 💻 working as a Software Developer and I am passionate about technology and want to learn & explore new technologies, I love coding,cooking and playing game.**
 ---
 <br>
-
-## MySkill 💻
-
- **Languages**
- 
- <img alt="Python" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg"/>|<img alt="HTML" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg"/>|<img alt="CSS" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg"/>|<img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"/>|<img alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bootstrap.svg"/>|<img alt="Bulma" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/django.svg"/>
- |--|--|--|--|--|--|
- 
- **Tools**
- 
- <img alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ubuntu.svg"/>|<img alt="Fedora" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg"/>|<img alt="Git" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg"/>|<img alt="VSCode" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg"/>|<img alt="Atom" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/atom.svg"/>
- |--|--|--|--|--|
- 
 
 
 
 **Talking about Personal Stuffs:**
 
 - 💼 I’m currently partcipating in as much Hackathons as I can 
-- 🌱 I’m currently Working as a Software Developer
+- 🌱 I’m currently Working as a Software Engineer
 - 💬 Ask me about anything, I am happy to help
 - 👯 I’m looking to collaborate on making any tech community
-- ⚡️ Fun-Fact  aI started writing blogs, [DEV blog](https://dev.to/iamkanaramyadav) in 2020 Also made a tech insta account [india_programmer](https://www.instagram.com/how2developer/)
+- ⚡️ Fun-Fact  aI started writing blogs, [DEV blog](https://dev.to/iamkanaramyadav) in 2020 Also made a tech insta account [How2Developer](https://www.instagram.com/how2developer/)
 - 📫 How to reach me:kanaramyadavofficial@gmail.com
 - 📝[Resume](https://www.linkedin.com/in/iamkanaramyadav/)
 
